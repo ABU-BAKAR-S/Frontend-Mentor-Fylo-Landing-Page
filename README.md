@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL ](https://github.com/ABU-BAKAR-S/Frontend-Mentor-Fylo-Landing-Page)
-- Live Site URL: [ live site URL ](https://your-live-site-url.com)
+- Live Site URL: [ live site URL ](https://abu-bakar-s.github.io/Frontend-Mentor-Fylo-Landing-Page/)
 
 ## My process
 
